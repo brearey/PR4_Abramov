@@ -9,7 +9,7 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="411dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="52dp"
         android:onClick="onClick"
@@ -21,7 +21,7 @@
 
     <EditText
         android:id="@+id/editText"
-        android:layout_width="411dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
         android:ems="10"
@@ -36,7 +36,7 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="411dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="128dp"
         android:gravity="center"
